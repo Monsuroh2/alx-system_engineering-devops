@@ -1,1 +1,1 @@
-shell basics command
+where am i
